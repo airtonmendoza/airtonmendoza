@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.titulo {
+    color: darkturquoise;
+    background: lightcoral;
+}
+.main-nav{
+    background: darkkhaki;
+    position: relative;
+}
