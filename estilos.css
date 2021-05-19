@@ -17,7 +17,10 @@ body {
     position: relative;
 }
 .menu {
-    
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
 }
 .menu_link {
     text-decoration: none;
