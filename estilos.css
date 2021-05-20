@@ -7,15 +7,15 @@ body {
 }
 
 .main-header {
-    background: gold;
+    background: #FABD97;
 }
 .titulo {
-    color: darkblue;
+    color: #34AAAD;
     padding: 10px;
     margin: 0;
 }
 .main-nav{
-    background: #403B31;
+    background: #AD785C;
     position: relative;
 }
 .menu {
@@ -26,7 +26,7 @@ body {
 }
 .menu_link {
     text-decoration: none;
-    color: #A64141;
+    color: #6FADAB;
     padding: 8px;
     margin: 0;
     display: block;
