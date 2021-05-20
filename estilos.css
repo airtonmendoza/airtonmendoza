@@ -37,5 +37,6 @@ body {
 .panas {
     text-decoration: none;
     display: block;
-    color: cadetblue;
+    color: MediumTurquoise;
+    width: 125px;
 }
