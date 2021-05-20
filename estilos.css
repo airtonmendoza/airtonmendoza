@@ -3,10 +3,7 @@
 }
 body {
     margin: 0;
-    background: indianred;
-    background: url("https://computacioninteractiva.com/wp-content/uploads/2019/07/INVERTIR-EN-TECNOLOGIA.png");
-    background-size: cover;
-    background-position: center;
+    background: rgb(52, 173, 221);
 }
 
 .main-header {
@@ -18,7 +15,7 @@ body {
     margin: 0;
 }
 .main-nav{
-    background: coral;
+    background: #403B31;
     position: relative;
 }
 .menu {
@@ -29,7 +26,7 @@ body {
 }
 .menu_link {
     text-decoration: none;
-    color: rgb(34, 253, 64);
+    color: #A64141;
     padding: 8px;
     margin: 0;
     display: block;
