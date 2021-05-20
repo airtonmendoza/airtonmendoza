@@ -3,7 +3,15 @@
 }
 body {
     margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: indianred;
+    background: url("https://computacioninteractiva.com/wp-content/uploads/2019/07/INVERTIR-EN-TECNOLOGIA.png");
+    background-size: cover;
+    background-position: center;
 }
+
 .main-header {
     background: gold;
 }
