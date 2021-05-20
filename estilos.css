@@ -3,7 +3,7 @@
 }
 body {
     margin: 0;
-    background: rgb(52, 173, 221);
+    background: thistle;
 }
 
 .main-header {
@@ -37,5 +37,5 @@ body {
 .panas {
     text-decoration: none;
     display: block;
-    color: khaki;
+    color: cadetblue;
 }
