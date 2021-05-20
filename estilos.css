@@ -7,10 +7,10 @@ body {
 }
 
 .main-header {
-    background: #FABD97;
+    background: #F5BF56;
 }
 .titulo {
-    color: #34AAAD;
+    color: #2A5FA8; /*after-transition: #5698F5*/
     padding: 10px;
     margin: 0;
 }
@@ -26,7 +26,7 @@ body {
 }
 .menu_link {
     text-decoration: none;
-    color: #6FADAB;
+    color: #56E8F5;
     padding: 8px;
     margin: 0;
     display: block;
