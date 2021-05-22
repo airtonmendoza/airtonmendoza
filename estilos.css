@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+.yo {
+    width: 25%;
+}
 body {
     margin: 0;
     background: white;
@@ -33,10 +36,12 @@ body {
 }
 .USIL {
     font-size: 20px;
-    text-decoration-color: blueviolet;
     color: violet;
 }
-
+.links {
+    color: black;
+    text-decoration-color: khaki;
+}
 
 .panas {
     text-decoration: none;
