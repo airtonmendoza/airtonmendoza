@@ -34,15 +34,29 @@ body {
     margin: 0;
     display: block;
 }
-.USIL {
-    font-size: 20px;
-    color: violet;
+
+
+.info {
+    color: red;
+    font-style: oblique;
+    font-size: 25px;
 }
 .links {
     color: black;
     text-decoration-color: khaki;
 }
+.juegos {
+    color: #DB5018;
+    text-decoration: none;
+}
 
+
+
+
+.USIL {
+    font-size: 20px;
+    color: violet;
+}
 .panas {
     text-decoration: none;
     display: block;
