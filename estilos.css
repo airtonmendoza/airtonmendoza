@@ -34,8 +34,6 @@ body {
     margin: 0;
     display: block;
 }
-
-
 .info {
     color: red;
     font-style: oblique;
@@ -49,6 +47,10 @@ body {
     color: #DB5018;
     text-decoration: none;
 }
+.img_juegos {
+    width: 20%;
+}
+
 
 
 
