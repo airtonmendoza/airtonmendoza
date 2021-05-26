@@ -14,6 +14,33 @@ body {
 }
 .titulo {
     color: #2A5FA8;
+}
+@media(min-width:480px) {
+    .container-section {
+        display: block;
+    }
+    .titulo {
+        font-size: 30px;
+        animation-name: practica;       
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+    @keyframes practica {
+        0% {
+            margin-left: 0px;
+        }
+        50% {
+            margin-left: 130px;
+            color: #6aa5f8;
+        }
+        100% {
+            margin-left: 0px;
+        }
+    }
+}
+@media(min-width:1024px) {
+    .titulo{
     padding: 10px;
     margin: 0;
     animation-name: movimiento;
@@ -22,17 +49,19 @@ body {
     animation-timing-function: linear;
 }
 @keyframes movimiento {
-    0% {
-        margin-left: 300px;
-    }
-    50% {
-        margin-left: 890px;
-        color: #6aa5f8;
-    }
-    100% { 
-        margin-left: 300px;
+        0% {
+            margin-left: 300px;
+        }
+        50% {
+            margin-left: 890px;
+            color: #6aa5f8;
+        }
+        100% { 
+            margin-left: 300px;
+        }
     }
 }
+
 .main-nav{
     background: #AD785C;
     position: relative;
@@ -94,29 +123,7 @@ td, th {
 }
 
 
-@media(min-width:480px) {
-    .container-section {
-        display: block;
-    }
-    .titulo {
-        animation-name: movimiento;
-        animation-duration: 3s;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
-    }
-    @keyframes practica {
-        0% {
-            margin-left: 0px;
-        }
-        50% {
-            margin-left: 130px;
-            color: #6aa5f8;
-        }
-        100% {
-            margin-left: 0px;
-        }
-    }
-}
+
 
 .compañero{
     color: Orange;
