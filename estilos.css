@@ -20,7 +20,6 @@ body {
         display: block;
     }
     .titulo {
-        font-size: 30px;
         animation-name: practica;       
         animation-duration: 3s;
         animation-iteration-count: infinite;
