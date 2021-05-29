@@ -129,6 +129,9 @@ td, th {
     color: darkorange;
     font-style: oblique;
 }
+li {
+    font-size: 20px;
+}
 
 
 
