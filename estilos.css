@@ -87,6 +87,9 @@ body {
     color: black;
     text-decoration-color: khaki;
 }
+.img_lugares {
+    width: 25%;
+}
 .juegos {
     color: #DB5018;
     text-decoration: none;
@@ -121,6 +124,11 @@ td, th {
         display: none;
 }
 
+.estudios {
+    font-size: 25px;
+    color: darkorange;
+    font-style: oblique;
+}
 
 
 
